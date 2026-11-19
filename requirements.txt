@@ -1,5 +1,10 @@
 langchain
+langchain-core
 langchain-community
 langchain-openai
+langchain-google-genai
 python-dotenv
 ipykernel
+langchain-groq
+pypdf
+pymupdf
